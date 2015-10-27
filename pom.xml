@@ -68,7 +68,7 @@
             <plugin> 
                <groupId>org.apache.maven.plugins</groupId> 
                  <artifactId>maven-war-plugin</artifactId> 
-                 
+                 //this is comment
            </plugin> 
        </plugins> 
      </build>--> 
