@@ -1,0 +1,6 @@
+--
+applications: 
+- name: Timesheet 
+  memory: 512M 
+  host: HackTimesheetHost 
+  path: target/HackTimesheet.war 
